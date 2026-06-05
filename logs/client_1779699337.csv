@@ -1,0 +1,4 @@
+zaman_damgasi,gecen_sure_ms,olay,seq_no,deneme,aciklama
+11:55:37.890,0.0,SEND,0,1,
+11:55:39.894,2004.269,TIMEOUT,0,1,
+11:55:39.894,2004.269,RETRANSMIT,0,2,

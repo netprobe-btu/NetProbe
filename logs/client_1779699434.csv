@@ -1,0 +1,4 @@
+zaman_damgasi,gecen_sure_ms,olay,seq_no,deneme,aciklama
+11:57:14.690,2.048,SEND,0,1,
+11:57:14.697,8.907,ACK_ALINDI,0,1,
+11:57:14.699,11.164,FIN_SEND,-1,0,
