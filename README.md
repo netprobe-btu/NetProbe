@@ -11,12 +11,19 @@ https://github.com/netprobe-btu/NetProbe
 ## Proje Yapisi
 
 netprobe/
+
 ├── protocol.py          # Paket yapisi, pack/unpack, checksum
+
 ├── logger.py            # Olay kayit sistemi (CSV)
+
 ├── server.py            # UDP sunucu
+
 ├── client.py            # UDP istemci (stop-and-wait)
+
 ├── network_sim.py       # Yapay kayip/gecikme simulatoru
+
 ├── analyzer.py          # Performans metrikleri ve grafikler
+
 ├── run_experiments.py   # 4 deney senaryosu
 
 ## Kurulum
